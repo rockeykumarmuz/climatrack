@@ -29,7 +29,7 @@ const Footer = () => {
 				<div className='mt-4 flex items-center justify-center gap-2'>
 					<a href='https://github.com/rockeykumarmuz' target='_blank' rel='noopener noreferrer'>
 						<img
-							src='../../public/github-removebg-preview.png'
+							src='/github-removebg-preview.png'
 							alt='Github logo'
 							className='h-8 bg-white rounded-lg border-none outline-0'
 						/>
@@ -39,7 +39,7 @@ const Footer = () => {
 						target='_blank'
 						rel='noopener noreferrer'
 						className='ml-4'>
-						<img src='../../public/linkedin.png' alt='Linkedin logo' className='h-8' />
+						<img src='/linkedin.png' alt='Linkedin logo' className='h-8' />
 					</a>
 				</div>
 			</div>
